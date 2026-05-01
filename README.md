@@ -18,6 +18,3 @@ Kali Linux, Nmap, Ubuntu 22.04, VirtualBox
 - Captured 12 events including Nmap scan probes and SSH sessions
 - Logged attacker source IP, username used, and session duration
 - Validated full SOC workflow: recon → capture → forward → analyze
-
-## Demo Video
-Watch the full project demo: [Click here to view](https://1drv.ms/b/c/ca84ccba0e93da2d/IQAUs7R46A0xRYj6MxzKmnN2Aeian_GGc3Apc6JjFUxplcc?e=mbibC3)
