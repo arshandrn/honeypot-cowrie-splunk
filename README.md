@@ -25,12 +25,13 @@ Kali Linux, Nmap, Ubuntu 22.04, VirtualBox
 - [Project Report](Honeypot.pdf)
 
 ## Screenshots
+- VMs Running
 ![VMs Running](screenshots/fig2-vms.jpg)
-
+- Cowrie Running
 ![Cowrie Running](screenshots/fig4-cowrie-running.jpg)
-
+- Kali Attack
 ![Kali Attack](screenshots/fig6-kali-attack.jpg)
-
+- Splunk Results
 ![Splunk Results](screenshots/fig8-splunk-results.jpg)
 
 
