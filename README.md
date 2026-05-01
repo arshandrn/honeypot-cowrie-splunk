@@ -21,11 +21,16 @@ Kali Linux, Nmap, Ubuntu 22.04, VirtualBox
 - Logged attacker source IP, username used, and session duration
 - Validated full SOC workflow: recon -> capture -> forward -> analyze
 
-## Screenshots
-![VMs Running](screenshots/fig2-vms.jpg)
-![Cowrie Running](screenshots/fig4-cowrie-running.jpg)
-![Kali Attack](screenshots/fig6-kali-attack.jpg)
-![Splunk Results](screenshots/fig8-splunk-results.jpg)
-
 ## File in This Repo
 - [Project Report](Honeypot.pdf)
+
+## Screenshots
+![VMs Running](screenshots/fig2-vms.jpg)
+
+![Cowrie Running](screenshots/fig4-cowrie-running.jpg)
+
+![Kali Attack](screenshots/fig6-kali-attack.jpg)
+
+![Splunk Results](screenshots/fig8-splunk-results.jpg)
+
+
