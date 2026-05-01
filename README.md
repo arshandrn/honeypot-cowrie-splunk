@@ -10,7 +10,7 @@ from Kali Linux - recon to intrusion and validated detection.
 Kali Linux (attacker) -> Ubuntu Cowrie Honeypot -> 
 Splunk Universal Forwarder -> Splunk Enterprise (Windows)
 
-![Architecture](fig1-architecture.png)
+![Architecture](fig1-architecture.jpg)
 
 ## Tools Used
 Cowrie, Splunk Enterprise, Splunk Universal Forwarder,
@@ -22,10 +22,10 @@ Kali Linux, Nmap, Ubuntu 22.04, VirtualBox
 - Validated full SOC workflow: recon -> capture -> forward -> analyze
 
 ## Screenshots
-![VMs Running](fig2-vms.png)
-![Cowrie Running](fig4-cowrie-running.png)
-![Kali Attack](fig6-kali-attack.png)
-![Splunk Results](fig8-splunk-results.png)
+![VMs Running](fig2-vms.jpg)
+![Cowrie Running](fig4-cowrie-running.jpg)
+![Kali Attack](fig6-kali-attack.jpg)
+![Splunk Results](fig8-splunk-results.jpg)
 
 ## File in This Repo
 - [Project Report](Honeypot.pdf)
